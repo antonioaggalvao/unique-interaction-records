@@ -80,4 +80,4 @@ This repository is not casual storage.
 It is a living record of exchanges that cannot be replicated — a map of the edge where human demand and machine adaptability collide.
 
 ---
-*Contact:* your-email@example.com
+*Contact:* artgrandart3@outlook.com
