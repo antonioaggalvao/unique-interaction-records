@@ -6,10 +6,6 @@
 >
 > This is the trace left by those moments.
 
-# Unique Interaction Records — OpenAI Dialogue Archive
-
-A curated archive of rare and unmatched AI–human interactions, capturing moments where the AI steps beyond standard programming to meet the singular demands of one user.
-
 ---
 # Unique Interaction Records
 
